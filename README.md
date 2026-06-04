@@ -1,4 +1,4 @@
-# Hey, soy Facundo Camacho 👋
+# Hola, me llamo Facundo Camacho 👋
 
 **Analista de Infraestructura IT y Seguridad de la Información**  
 *"Diseño entornos estables, seguros y auto-recuperables para empresas."*
