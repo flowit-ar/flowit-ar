@@ -51,14 +51,14 @@
 |---|---|---|
 | **ZeQ WiFi** | ISP wireless armado de cero — RF, PtP/PtMP, fibra óptica, RADIUS, NOC | 🟢 Activo |
 | **Global Net** | ISP wireless completo — backbone, sectores, fibra óptica, RADIUS | ✅ Completado |
-| **Ombuserver** | Servidor de videojuegos → plataforma hosting y métricas para DirecTV Argentina (SilicaNetworks) | 📦 2014–2017 |
+| **Ombuserver** | Servidor de videojuegos → plataforma hosting y métricas para DirecTV Argentina (SilicaNetworks) | 🟢 Activo |
 
 ---
 
 ## 🏢 Experiencia Destacada
 
 - **IT Infrastructure & Security Manager** — Café América Mayorista (2018–presente)  
-  Infraestructura multi-sucursal, Proxmox, VoIP, SQL Server ~60k productos, respuesta ransomware
+  Infraestructura y seguridad resiliente, Virtualizacion, VoIP, respuesta ransomware
 
 - **Sysadmin / Network Admin** — InterSat Argentina, GPS San Juan (ISPs)
 
@@ -71,7 +71,7 @@
 ## 🎓 Formación & Certificaciones
 
 **Manhattan University — Arquitectura en Ciberseguridad**  
-*Preparación para CEH (EC-Council) y CISSP — en proceso*
+*Preparación para CEH (EC-Council) y CISSP (IT College) — en proceso*
 
 | Curso | Estado |
 |---|---|
@@ -86,7 +86,7 @@
 | CISSP | 🔄 En proceso |
 
 **Certificaciones Técnicas:**
-`Cisco CCNA 1/2/3/4` · `Ubiquiti UBWA` · `Ubiquiti UEWA` · `MikroTik` · `Allied Telesis` · `Digium Asterisk` · `Citrix` · `Red Hat Linux` · `VMware ESXi` · `Windows Server 2008 R2`
+`Cisco CCNA` · `Ubiquiti UBWA` · `Ubiquiti UEWA` · `MikroTik` · `Allied Telesis` · `Digium Asterisk` · `Citrix` · `Red Hat Linux` · `VMware ESXi` · `Windows Server 2008 R2`
 
 ---
 
@@ -94,7 +94,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fcn85/)
 [![Web](https://img.shields.io/badge/CV_Web-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://flowit-ar.com/cv)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fcn@flowit-ar.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fcn@outlook.com.ar)
 
 ---
 
