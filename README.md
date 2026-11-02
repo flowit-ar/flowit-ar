@@ -1,101 +1,53 @@
-# Hola, me llamo Facundo Camacho 👋
+# Facundo Camacho 👋
 
-**Analista de Infraestructura IT y Seguridad de la Información**  
-*"Diseño entornos estables, seguros y auto-recuperables para empresas."*
+**IT Infrastructure & Security Manager**  
+*Infraestructura IT · Redes · Ciberseguridad · Automatización*
 
-📍 San Juan, Argentina &nbsp;|&nbsp; 🌐 [flowit-ar.com/cv](https://flowit-ar.com/cv)
+📍 San Juan, Argentina · 🌐 [CV y portfolio](https://cv.flowit-ar.com/) · [LinkedIn](https://www.linkedin.com/in/fcn85/)
 
----
+## Perfil profesional
 
-## 🛠️ Stack Tecnológico
+Profesional IT con más de 10 años de experiencia en administración de sistemas, ingeniería de redes, seguridad e infraestructura tecnológica. Trabajo en el diseño, operación y mejora de entornos empresariales, con foco en **disponibilidad, segmentación, monitoreo, automatización y continuidad operativa**.
 
-**Infraestructura & Virtualización**
+Mi experiencia incluye operaciones IT en organizaciones con **múltiples sucursales**, proveedores de servicios de Internet (ISP) y servicios de infraestructura críticos. Combino la operación de redes y servidores con el desarrollo de herramientas propias.
 
-[![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)](https://www.proxmox.com)
-[![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)
-[![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com)
-[![KVM](https://img.shields.io/badge/KVM/QEMU-000000?style=for-the-badge&logo=qemu&logoColor=white)](https://www.qemu.org)
+## Áreas de especialización
 
-**Redes & Seguridad**
+| Área | Tecnologías y prácticas |
+| --- | --- |
+| **Infraestructura y virtualización** | Linux, Windows Server, Proxmox VE, VMware ESXi, KVM/QEMU, NAS, backup y recuperación |
+| **Redes y conectividad** | MikroTik RouterOS, Fortinet, Ubiquiti, VLAN, OSPF, VPN, WireGuard, IPsec, enlaces inalámbricos |
+| **Seguridad y continuidad** | Firewalls, segmentación, hardening, gestión de incidentes, disaster recovery |
+| **Automatización y desarrollo** | Python, PowerShell, Bash, PHP, C#, SQL Server, MySQL, Git, APIs REST |
+| **Servicios y observabilidad** | DNS, Nginx, Asterisk/Issabel, VoIP, Observium, PRTG |
 
-[![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)](https://mikrotik.com)
-[![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.fortinet.com)
-[![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)](https://www.ui.com)
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://www.cloudflare.com)
-[![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)](https://www.wireguard.com)
-[![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white)](https://openvpn.net)
+## Experiencia profesional
 
-**Desarrollo & Automatización**
+- **2023 – Actualidad · Responsable de Sistemas — Café América Mayorista S.A.**  
+  Administración de infraestructura corporativa distribuida, servidores, redes, seguridad perimetral, monitoreo, respaldos y continuidad operativa.
+- **2018 – 2023 · Administrador de Redes y Responsable Técnico — GPS San Juan S.R.L.**  
+  Operación y mantenimiento de redes, conectividad, servidores y servicios de infraestructura ISP.
+- **2014 – 2016 · Soporte Técnico y Administración de Redes — Sanatorio Argentino**  
+  Soporte y administración de infraestructura informática en un entorno sanitario.
+- **2011 – 2013 · Administración de Sistemas y Redes — InterSat Argentina**  
+  Infraestructura y conectividad en un proveedor de servicios de Internet.
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
-[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+## Proyectos
 
-**Servicios & VoIP**
+- **[FlowIT-AR](https://flowit-ar.com/)** — Proyectos de infraestructura IT, redes, automatización y desarrollo de herramientas.
+- **ZeQ WiFi** — Diseño y operación de infraestructura ISP: radioenlaces PtP/PtMP, redes de acceso, RADIUS, fibra óptica y monitoreo.
+- **Global Net** — Despliegue y administración de infraestructura de conectividad inalámbrica.
+- **OmbuServer** — Administración de servicios en línea y desarrollo de herramientas para una comunidad de videojuegos.
 
-[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org)
-[![Asterisk](https://img.shields.io/badge/Asterisk-F37021?style=for-the-badge&logo=asterisk&logoColor=white)](https://www.asterisk.org)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+> Los proyectos públicos y sus detalles técnicos se documentan de forma que no expongan información de clientes ni infraestructura privada.
 
----
+## Contacto
 
-## 🚀 Proyectos Propios
-
-| Proyecto | Descripción | Estado |
-|---|---|---|
-| **ZeQ WiFi** | ISP wireless armado de cero — RF, PtP/PtMP, fibra óptica, RADIUS, NOC | 🟢 Activo |
-| **Global Net** | ISP wireless completo — backbone, sectores, fibra óptica, RADIUS | ✅ Completado |
-| **Ombuserver** | Servidor de videojuegos → plataforma hosting y métricas para DirecTV Argentina (SilicaNetworks) | 🟢 Activo |
+- **CV y portfolio:** https://cv.flowit-ar.com/
+- **Sitio:** https://flowit-ar.com/
+- **LinkedIn:** https://www.linkedin.com/in/fcn85/
+- **Correo:** [fcn@outlook.com.ar](mailto:fcn@outlook.com.ar)
 
 ---
 
-## 🏢 Experiencia Destacada
-
-- **IT Infrastructure & Security Manager** — Café América Mayorista (2018–presente)  
-  Infraestructura y seguridad resiliente, Virtualizacion, VoIP, respuesta ransomware
-
-- **Sysadmin / Network Admin** — InterSat Argentina, GPS San Juan (ISPs)
-
-- **Administrador de Redes** — Sanatorio Argentino S.R.L.
-
-- **Consultoría** — McEwen Copper (Los Azules), CASLEO, Hospital Marcial Quiroga, y más
-
----
-
-## 🎓 Formación & Certificaciones
-
-**Manhattan University — Arquitectura en Ciberseguridad**  
-*Preparación para CEH (EC-Council) y CISSP (IT College) — en proceso*
-
-| Curso | Estado |
-|---|---|
-| Ciberseguridad | ✅ |
-| Redes de Datos | ✅ |
-| Linux Operator | ✅ |
-| Linux SysAdmin | ✅ |
-| Python Orientado a Hacking | ✅ |
-| Bases de Datos y SQL | ✅ |
-| Arquitectura en Ciberseguridad | 🔄 En curso |
-| CEH — EC-Council | 🔄 En proceso |
-| CISSP | 🔄 En proceso |
-
-**Certificaciones Técnicas:**
-`Cisco CCNA` · `Ubiquiti UBWA` · `Ubiquiti UEWA` · `MikroTik` · `Allied Telesis` · `Digium Asterisk` · `Citrix` · `Red Hat Linux` · `VMware ESXi` · `Windows Server 2008 R2`
-
----
-
-## 📫 Contacto
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fcn85/)
-[![Web](https://img.shields.io/badge/CV_Web-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://flowit-ar.com/cv)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fcn@outlook.com.ar)
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=flowit-ar&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8)
+*Diseñando infraestructura IT confiable, segura y resiliente.*
