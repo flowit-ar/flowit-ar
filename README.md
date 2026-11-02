@@ -25,6 +25,7 @@ Diseño, implemento y opero infraestructura tecnológica para entornos corporati
 | [`proxmox-homelab`](https://github.com/flowit-ar/proxmox-homelab) | Diseño documentado de laboratorio Proxmox, redes, storage, backup y recuperación. |
 | [`mikrotik-automation`](https://github.com/flowit-ar/mikrotik-automation) | Scripts y plantillas RouterOS reutilizables y sanitizadas. |
 | [`powershell-sysadmin`](https://github.com/flowit-ar/powershell-sysadmin) | Automatizaciones para administración Windows y tareas operativas. |
+| [`easy-vulnscanner`](https://github.com/flowit-ar/easy-vulnscanner) | Panel web para lanzar escaneos con nmap sobre hosts o redes. |
 
 ---
 
